@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+.venvmap_agent/
+
+# Environment variables
+.env
+
+# Databases
+*.db
+
+# Runtime outputs
+outbox/
+failed_email_*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
